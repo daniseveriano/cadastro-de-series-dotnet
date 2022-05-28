@@ -1,0 +1,1 @@
+Projeto de um CRUD de cadastro de séries em .NET
