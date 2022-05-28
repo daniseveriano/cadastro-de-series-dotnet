@@ -1,0 +1,15 @@
+/home/danisck/Documentos/cadastro-de-series-dotnet/bin/Debug/net6.0/cadastro-de-series-dotnet
+/home/danisck/Documentos/cadastro-de-series-dotnet/bin/Debug/net6.0/cadastro-de-series-dotnet.deps.json
+/home/danisck/Documentos/cadastro-de-series-dotnet/bin/Debug/net6.0/cadastro-de-series-dotnet.runtimeconfig.json
+/home/danisck/Documentos/cadastro-de-series-dotnet/bin/Debug/net6.0/cadastro-de-series-dotnet.dll
+/home/danisck/Documentos/cadastro-de-series-dotnet/bin/Debug/net6.0/cadastro-de-series-dotnet.pdb
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.csproj.AssemblyReference.cache
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.GeneratedMSBuildEditorConfig.editorconfig
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.AssemblyInfoInputs.cache
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.AssemblyInfo.cs
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.csproj.CoreCompileInputs.cache
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.dll
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/refint/cadastro-de-series-dotnet.dll
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.pdb
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/cadastro-de-series-dotnet.genruntimeconfig.cache
+/home/danisck/Documentos/cadastro-de-series-dotnet/obj/Debug/net6.0/ref/cadastro-de-series-dotnet.dll
